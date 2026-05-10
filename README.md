@@ -1,4 +1,4 @@
-# 🚀 CodePair Studio
+# 🚀 Code Pair Studio  - Landing Page
 
 **The All-in-One Collaborative Development Suite** *Empowering remote engineering teams with real-time code execution, AI assistance, and multimodal communication.*
 
@@ -7,6 +7,8 @@
 ## 🌟 Overview
 
 CodePair Studio is a high-performance, real-time collaborative IDE designed to eliminate context-switching. Built for developers by developers, it integrates a sophisticated code editor with a whiteboard, audio/video conferencing, and an AI-powered copilot into a single, native desktop environment.
+
+This repo contains the landing page for Code Pair Studio which is separate flrom the core web application .
 
 ## ✨ Key Features
 
